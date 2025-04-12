@@ -2,7 +2,7 @@
 
 This is a beginner-friendly web application that converts written text into speech using the browser's built-in Speech Synthesis API.
 
-🌐 **Live Demo:** [Click here to try it](https://msdhinesh45.github.io/text-to-voice-website/) <!-- Update if hosted -->
+🌐 **Live Demo:** [Click here to try it](https://msdhinesh45.github.io/text-to-voice/) 
 
 ---
 
