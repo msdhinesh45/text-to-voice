@@ -6,7 +6,7 @@ function textToAudio(){
     speech.lang="en-UK";
     speech.text = msg;
     speech.volume =1;
-    speech.rate=0.7;
+    speech.rate=1;
     speech.pitch=1;
 
     speechSynthesis.speak(speech);
